@@ -1,2 +1,3 @@
 # 51DaysOfDecentralization
-Building something
+## Resources
+- https://roadmap.sh/blockchain
